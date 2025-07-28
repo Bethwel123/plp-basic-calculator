@@ -12,6 +12,6 @@ elif result == "/":
     if num2 != 0:
         print(f"Quotient: ",num1 / num2)
     else:
-        print("Error: Division by zero is not allowed.")
+        print("Error: Cannot divide by zero.")
 else:
     print("Invalid operator. Please use +, -, *, or /.")
