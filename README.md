@@ -5,6 +5,6 @@
 ### Basic Calulator program
 # Get user input for the first number, the second number, and the operation
 # Perform the operation based on the user's input
-# Print the result
+# Then print the result
 
 
